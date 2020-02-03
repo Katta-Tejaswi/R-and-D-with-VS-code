@@ -6,6 +6,6 @@ namespace RAndD
 {
     class Class3
     {
-        string text = "sample";
+        string text = "sampletxt";
     }
 }
